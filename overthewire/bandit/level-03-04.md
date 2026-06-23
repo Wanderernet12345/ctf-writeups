@@ -33,6 +33,5 @@ cat ...Hiding-From-You
   conceal malicious scripts or stolen data
 
 ## Screenshot
-![Level 3 to 4](../../screenshots/bandit
-/Screenshot From 2026-06-23 01-59-21.png
-)
+![Level 3 to 4](../../screenshots/bandit/level-03-04-p1.png)
+![Level 3 to 4](../../screenshots/bandit/level-03-04-p2.png)
