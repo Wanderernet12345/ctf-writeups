@@ -29,4 +29,5 @@ cat -- --spaces\ in\ this\ filename--
 - Both problems can exist in the same filename simultaneously
 
 ## Screenshot
-![Level 2 to 3](../../screenshots/bandit/level-02-03.png)
+![Level 2 to 3](../../screenshots/bandit/level-02-03-p1.png)
+![Level 2 to 3](../../screenshots/bandit/level-02-03-p2.png)
