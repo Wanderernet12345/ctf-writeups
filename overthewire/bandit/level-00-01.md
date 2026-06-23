@@ -17,4 +17,6 @@ cat readme
 - cat reads and prints file contents to terminal
 
 ## Screenshot
-![Level 0 to 1](../../screenshots/bandit/level-00-01.png)
+![Level 0 to 1](../../screenshots/bandit/level-00-01-p1.png)
+![Level 0 to 1](../../screenshots/bandit/level-00-01-p2.png)
+
